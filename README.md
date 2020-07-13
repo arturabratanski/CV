@@ -1,5 +1,5 @@
 # CV
 
-__Repository with my CVs in:__
-*English
-*Polish
+__Repository with my CVs in:__  
+* English
+* Polish
